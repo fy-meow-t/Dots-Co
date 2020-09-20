@@ -5,7 +5,7 @@ Puzzle game Dots &amp; Co: first-year python assignment
 Version 1.9.3 of pygame has been used. Install the pygame module with pip using the
 command:
 pip3 install pygame
-
+(may need to set "export DISPLAY=:0.0" first)
 Run the game with "python3 main.py"
 
 # Basic Instructions
