@@ -18,7 +18,7 @@ You may enter your player name upon starting the game. Simple login and score ra
 
 Connect dots in a loop (i.e. connect back to the first dot) to delete all dots with the same colour.
 
-Two play modes:
+Two play modes selectable via File - New Game:
 1. With Companion (Eskimo avatar): 
   Throw swirl dots every time an interval is reached. Swirl dots can change adjacent dots' colours.
   Turtle hurdle: cannot be connected. Disappear after a few adjacent dots are connected.
