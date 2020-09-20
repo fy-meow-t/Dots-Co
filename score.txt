@@ -1,0 +1,6 @@
+sample1,121
+sample2,96
+1,2
+arya,170
+None,128
+Fei,103
